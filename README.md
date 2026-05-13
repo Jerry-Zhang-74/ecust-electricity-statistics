@@ -1,6 +1,6 @@
-# ecust-electricity-statistics
+# electricity-statistics
 
-华东理工大学电费统计：拒绝一切不透明操作。通过 Github Actions 自动获取并记录每天的宿舍电量剩余，并通过 PushPlus 自动推送到微信端。
+电费统计：拒绝一切不透明操作。通过 Github Actions 自动获取并记录每天的宿舍电量剩余，并通过 PushPlus 自动推送到微信端。
 
 - secrets
   <!-- prettier-ignore -->
@@ -11,7 +11,7 @@
 
 ## 开始记录
 
-1. 华理信息办 - 微门户 - 电费充值 - 查询您的宿舍电量 - 复制链接。（本例中宿舍为随机选出）
+1. 信息办 - 微门户 - 电费充值 - 查询您的宿舍电量 - 复制链接。（本例中宿舍为随机选出）
 
 <img alt="复制链接" src="https://user-images.githubusercontent.com/88281489/205481212-aaca1699-79ef-4c17-b3e3-a7e477ad55db.png"  width="30%" height="30%"/>
 
